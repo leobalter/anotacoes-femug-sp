@@ -35,6 +35,7 @@
 * Debugar é a arte de remover o código que você mesmo colocou
 * Testar é importante e você deve saber o que e para que testar
 * nem sempre erro é certo ou errado
+* [Small Acts](http://smallactsmanifesto.org/)! 
 
 ## Palestras sobre front-end
 
