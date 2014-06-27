@@ -28,7 +28,7 @@
 * Solucionar problema sem causar mais problema
 * Code review atrasa o processo de desenvolvimento mas é importante
 * O code review divide a pressão entre quem escreveu e quem revisou o código e deve fazer parte do workflow de trabalho
-* O código não pode ter a identidade de um sé programador, e sim, da equipe
+* O código não pode ter a identidade de um só programador, e sim, da equipe
 * É importante manter a sanidade dos branches e seguir guidelines de código
 * O código não te define
 * Nosso código deve ser apagado frequentemente para não pegarmos amor por ele
